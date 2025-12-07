@@ -3,7 +3,7 @@ How to Run the Jupyter Notebook
 Follow the steps below to run the project notebook and reproduce all results.
 
 1. Download or Clone the Repository
-2. git clone <your_repository_link>
+2. git clone https://github.com/danishiq27/Tools-Techniques-Project.git
 cd <repository_folder>
 
 Alternatively, you can download the ZIP file from GitHub and extract it.
